@@ -1,0 +1,16 @@
+Abdul Mueed
+Professor Tagen
+CSIS 2050
+19 November 2019
+													SCM Extra Credit Assignment
+
+Source code management (SCM), or version control tools are very useful for any application and purpose. In fact, there in an instance where I could have used SCM to make my life a little easier. 
+This instance was when there was a group presentation project in my English 1021 class last winter. We had to present a power point to the class. 
+The way we approached this was we all would make individual changes to our sections and talk about everything in a group chat. The process was very messy because it was always unclear who changed what on which slide. 
+If we had a SCM tool, such as GitHub, it would have made the process much smoother for us.
+
+
+First, this would have positively altered our outcome because of the commit features. Not only would you be able to know what change was made, you would know when it was made and by who. 
+There is also a feature in such a tool that allows you to add a commit message. This message will describe the change in as less amount of characters as possible. 
+Another advantage for us would’ve been that the revision history would have been on file, just in case a slide was done wrong or that we didn’t need it, we could go back to before it was changed. 
+This feature is essentially like the “undo” command. Overall, using a SCM tool such as GitHub would have been beneficial if used during this project because of the features it provides making the process easier and more organized.
